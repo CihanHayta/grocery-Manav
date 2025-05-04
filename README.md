@@ -20,4 +20,5 @@ This project is a simple grocery store web application built with **React** and 
 - [Tailwind CSS](https://tailwindcss.com/) – for styling (if used)
 - (Optional) [Stripe](https://stripe.com/) – for
 -
-- ![EkranKayd2025-05-0500 24 23-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3b89a30c-346a-4f11-b4a7-939aa10f758d)
+
+![EkranKayd2025-05-0500 39 42-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1e02c4cf-363b-4710-8187-106f27ed061f)
